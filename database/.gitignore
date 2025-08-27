@@ -1,0 +1,18 @@
+# Database files
+*.sqlite*
+
+# Database backups aur exports
+*.sql
+*.dump
+*.backup
+*.csv
+*.xlsx
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
